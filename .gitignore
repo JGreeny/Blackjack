@@ -1,6 +1,9 @@
+# Java Files
 *.class
-
-# Package Files #
 *.jar
-*.war
-*.ear
+
+# Eclipse Stuff
+/.classpath
+/.project
+/.settings
+/bin
