@@ -1,9 +1,3 @@
 # Java Files
 *.class
 *.jar
-
-# Eclipse Stuff
-/.classpath
-/.project
-/.settings
-/bin
